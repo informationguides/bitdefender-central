@@ -8,7 +8,7 @@ Learn how Bitdefender Central helps you protect, control, and monitor your devic
 
 .. image:: activatenow.png
    :alt: Bitdefender central
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://fm.ci?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWwtaGVscGRlc2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 ========================================
 Step-by-Step Guide to Set Up Remote Protection via Bitdefender Central Dashboard
@@ -18,7 +18,7 @@ Bitdefender Central dashboard se remote protection setup karna bahut hi asaan ha
 
 1. Step 1 - Open Bitdefender Central Website
 -----------------------------------------
-1. Go to the official Bitdefender Central website: https://central.bitdefender.com
+1. Go to the official Bitdefender Central website.
 2. This is where you manage and protect all your devices remotely.
 
 2. Step 2 - Sign In or Create an Account
