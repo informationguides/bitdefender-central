@@ -86,7 +86,7 @@ Frequently Asked Questions About Bitdefender central
 
 Check all FAQ's
 
------------------------------------------
+
 1. How do I connect a new device to Bitdefender Central?
 -----------------------------------------
 To connect a new device, log in to your Bitdefender Central account and click on “Add Device.” Choose the device type, download the app, and sign in to link it with your Central account.
