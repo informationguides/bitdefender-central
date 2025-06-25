@@ -81,38 +81,38 @@ How to Control Multiple Devices Using Bitdefender Central Remotely in 2025
 
 
 =========================================
-Frequently Asked Questions About fubo.tv/connect
+Frequently Asked Questions About Bitdefender central
 =========================================
 -----------------------------------------
-Q1. How do I connect a new device to Bitdefender Central?
+1. How do I connect a new device to Bitdefender Central?
 -----------------------------------------
 To connect a new device, log in to your Bitdefender Central account and click on “Add Device.” Choose the device type, download the app, and sign in to link it with your Central account.
 
 
 -----------------------------------------
-Q2. Can I scan my computer remotely using Bitdefender Central?
+2. Can I scan my computer remotely using Bitdefender Central?
 -----------------------------------------
 Yes, you can use Bitdefender Central to run a remote scan on any connected device. Just log in, click the device, and choose the “Remote Scan” option.
 
 
 -----------------------------------------
-Q3. What should I do if Bitdefender Central doesn’t show my device?
+3. What should I do if Bitdefender Central doesn’t show my device?
 -----------------------------------------
 If your device isn’t showing, make sure you installed the Bitdefender app and logged in with the same Bitdefender Central account. You may also try restarting the app or reinstalling it.
 
 
 -----------------------------------------
-Q4. How often should I check my Bitdefender Central dashboard?
+4. How often should I check my Bitdefender Central dashboard?
 -----------------------------------------
 It’s a good idea to check your dashboard daily or at least once a week. This helps you see alerts, threats, or any protection updates needed.
 
 -----------------------------------------
-Q5. Is remote protection free with Bitdefender Central?
+5. Is remote protection free with Bitdefender Central?
 -----------------------------------------
 Yes, remote protection features like scan, update, and lock are included with most Bitdefender subscriptions through Central. No extra payment is needed for basic remote tools.
 
 -----------------------------------------
-Q6. Can I lock my phone remotely using Bitdefender Central?
+6. Can I lock my phone remotely using Bitdefender Central?
 -----------------------------------------
 Yes, if your phone is connected to Bitdefender Central, you can lock it remotely from the dashboard using the “Lock Device” option.
 
