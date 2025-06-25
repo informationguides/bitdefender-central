@@ -83,6 +83,9 @@ How to Control Multiple Devices Using Bitdefender Central Remotely in 2025
 =========================================
 Frequently Asked Questions About Bitdefender central
 =========================================
+
+Check all FAQ's
+
 -----------------------------------------
 1. How do I connect a new device to Bitdefender Central?
 -----------------------------------------
