@@ -1,1 +1,1 @@
-# bitdefender-central
+# Bitdefender central
