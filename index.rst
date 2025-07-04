@@ -8,7 +8,7 @@ Learn how Bitdefender Central helps you protect, control, and monitor your devic
 
 .. image:: activatenow.png
    :alt: Bitdefender central
-   :target: https://fm.ci?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWwtaGVscGRlc2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://central.bitdefender.com/
 
 ========================================
 Step-by-Step Guide to Set Up Remote Protection via Bitdefender Central Dashboard
